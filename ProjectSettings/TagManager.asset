@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - Floor
+  - MasterObj
+  - BoardCellPiece
+  - BoardCellSelection
+  - Cauldron
+  - Potion
+  - Mole
+  - WordBox
+  - Indivisible
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: 
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: SplitDetect
+  User Layer 9: WorldClickable
+  User Layer 10: Draggable
+  User Layer 11: UIWindow
+  User Layer 12: Foreground_0
+  User Layer 13: 
+  User Layer 14: 
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: BackLayer1
+    userID: 14
+    uniqueID: 2816385941
+    locked: 0
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Pass_1
+    userID: 1
+    uniqueID: 3969427237
+    locked: 0
+  - name: Pass_2
+    userID: 2
+    uniqueID: 1894261341
+    locked: 0
+  - name: Pass_3
+    userID: 3
+    uniqueID: 875084637
+    locked: 0
+  - name: Pass_4
+    userID: 4
+    uniqueID: 673447127
+    locked: 0
+  - name: Pass_5
+    userID: 5
+    uniqueID: 901620577
+    locked: 0
+  - name: Pass_6
+    userID: 6
+    uniqueID: 3422868741
+    locked: 0
+  - name: Pass_7
+    userID: 7
+    uniqueID: 2423823779
+    locked: 0
+  - name: Pass_8
+    userID: 8
+    uniqueID: 937784797
+    locked: 0
+  - name: Pass_9
+    userID: 9
+    uniqueID: 1904753137
+    locked: 0
+  - name: Pass_10
+    userID: 10
+    uniqueID: 1058737691
+    locked: 0
+  - name: Pass_11
+    userID: 11
+    uniqueID: 2944290519
+    locked: 0
+  - name: Pass_12
+    userID: 12
+    uniqueID: 492832131
+    locked: 0
+  - name: SpriteGUI
+    userID: 13
+    uniqueID: 559663853
+    locked: 0

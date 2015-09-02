@@ -1,0 +1,46 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "1",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "His name is Saul",
+				"1" : "Saul says that words are very special here. Everyone and everything in Saul’s world exist because of the memories of living folks. And not just the memories, it's also their thoughts about them, their wishes, and their stories.",
+				"2" : "These words power the world, and they can also be used to make new things. Everything is made of words here. Even the people are sort of made of words!",
+				"3" : "A lot of words from the world of the living end up here at the junkyard. The junkyard can easily get too full and out of control.",
+				"4" : "Saul made a special machine which recycles words into things. Some of these recycled words can used by people here. But these words cannot be used in their whole form - Saul needs to break them into parts.",
+				"5" : "Mr Biggles used to help Saul to break down words. But now that Mr Biggles lives here, he’s no good at breaking down words anymore. Mr Biggles told Saul that I might be able to lend a hand."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Saul the Scientist
+
+Occupation:
+[] Scientist
+
+Likes:
+[] Coming up with new inventions, unlocking the secrets of word matter
+
+Dislikes:
+[] Wasting time.
+
+Favourite quote:
+[] Do, or do not. There is no 'try'.
+
+Favourite people in the (living) world:
+[] My wife and my children.
+
+How I came to be here:
+[] Invented an age acceleration machine and tested it with the dial accidentally turned up too high.
+
+What I wish:
+[] To work out how to stabilize word matter"
+			}
+		}
+	}
+}

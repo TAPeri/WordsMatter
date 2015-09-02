@@ -1,0 +1,4 @@
+BodyCategoryID,CategoryName,TopLevelPieces,SinglePieces
+0,Head,1-2-3-6-7-14-15-20-21,
+1,Body,4-5-12-13-18-19-28-29,0
+2,Leg,8-9-22-23-25-26,

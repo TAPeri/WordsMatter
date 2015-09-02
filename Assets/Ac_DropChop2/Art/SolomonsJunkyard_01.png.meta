@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 7ea47ec76601245cfbca42678be9e445
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TileLeft
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PitSide
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1023
+        width: 1266
+        height: 643
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Crack1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1538
+        width: 18
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Crack2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1540
+        width: 24
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Crack3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1537
+        width: 20
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: OrangePipe
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 43
+        width: 32
+        height: 1425
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Ground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 809
+        width: 1426
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1425
+        height: 801
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TileMid
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TileRight
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPipe
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1764
+        width: 625
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PointerHand
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1342
+        width: 149
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Scoreboard
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1700
+        width: 385
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BadCross
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1551
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: StarForLine
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1558
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

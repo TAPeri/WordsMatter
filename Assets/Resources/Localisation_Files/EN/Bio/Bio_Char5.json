@@ -1,0 +1,46 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "5",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "He is Peter the Postmaster.",
+				"1" : "All of the thoughts, memories, and stories the living have of the dead arrive at the post office as packages.",
+				"2" : "The packages are made of unstable word matter. And this matter only exists temporarily between the worlds of the living and the dead. This means the packages need to be delivered pretty quickly.",
+				"3" : "Before the packages can go, they need to be sorted into appropriate bags. Otherwise they won't get to the right part of town. Peter has a special system.",
+				"4" : "But there are a lot of packages and he’s struggling to keep up.",
+				"5" : "Would I be able to help out in one of the mailrooms?"
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Peter the Postmaster
+
+Occupation:
+[] Postmaster (previously English teacher)
+
+Likes:
+[] Crosswords, cocker spaniels
+
+Dislikes:
+[] Long walks on the beach
+
+Favourite quote:
+[] The only reason for time is so that everything doesn't happen at once.
+
+Favourite people in the (living) world:
+[] My son and daughter.
+
+How I came to be here:
+[] I stood on a hornet’s nest
+
+What I wish:
+[] That I could go to the movies with my family again"
+			}
+		}
+	}
+}

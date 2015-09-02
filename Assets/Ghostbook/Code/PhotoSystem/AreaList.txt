@@ -1,0 +1,9 @@
+0 = Serenade Hero
+1 = Junkyard
+2 = Mayor
+3 = Harvest
+4 = Whack-A-Monkey
+5 = Post Office
+6 = Bridge
+7 = Train Station
+8 = Bike Shed

@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 82d4d7a9404bc435aa2f8158a09e10ba
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DoorChar_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1554
+        width: 247
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_02
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1565
+        width: 249
+        height: 442
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_03
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1578
+        width: 247
+        height: 433
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_04
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1570
+        width: 249
+        height: 463
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_05
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1566
+        width: 247
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_06
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1566
+        width: 247
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_07
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_08
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_09
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_11
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_12
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1044
+        width: 247
+        height: 458
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_17
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_18
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 555
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_23
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorChar_24
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 60
+        width: 247
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

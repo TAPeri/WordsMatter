@@ -1,0 +1,45 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "7",
+				"MaxBioSections" : "5"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "Her name is Stella and she is the station master.",
+				"1" : "The station has been very chaotic lately! Lots of late trains, lots of lost passengers.",
+				"2" : "This is because the trains use a strange carriage labelling system. Each train carriage is labelled with a part of a word. Passengers must look for these labels in order to find their seats.",
+				"3" : "Trains need to be labelled soon after they arrive. Otherwise passengers won't find their seats and the trains can't leave on time.",
+				"4" : "Mr Biggles used to help Stella by doing the train labelling, but he’s not so good at it anymore. Stella hopes I can help her, and help the station return to normal!"
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Stella the Stationmaster
+
+Occupation:
+[] Stationmaster (previously cabbie)
+
+Likes:
+[] Driving fast, painting distant train locations
+
+Dislikes:
+[] Waiting in line, being hot
+
+Favourite quote:
+[] From there to here, and here to there, funny things are everywhere.
+
+Favourite people in the (living) world:
+[] My best friend April
+
+How I came to be here:
+[] Died of boredom waiting in line at the supermarket.
+
+What I wish:
+[] To one day find April sitting on the train"
+			}
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "10",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Timothy the Ticket Inspector
+
+Occupation:
+[] Ticket inspector (previously FBI agent)
+
+Likes:
+[] Puzzles, bullet proof tuxedos.
+
+Dislikes:
+[] Monkey poop on the streets.
+
+Favourite quote:
+[] Life is a riddle we die in guessing.
+
+Favourite people in the (living) world:
+[] My grand children.
+
+How I came to be here:
+[] Can’t say that here - it is top secret information.
+
+What I wish:
+[] To find out how I got here."
+			}
+		}
+	}
+}

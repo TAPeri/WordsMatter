@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "15",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : " Nigel the Night Watchman
+
+Occupation:
+[] Night watchman (previously a policeman)
+
+Likes:
+[] Being in the TV section of electronics stores, TV quiz shows
+
+Dislikes:
+[] Sunrise, pigeons
+
+Favourite quote:
+[] Every move you make I'll be watching you
+
+Favourite people in the (living) world:
+[] My uncle, a night watchman who has seen everything!
+
+How I came to be here:
+[] Accidentally ate poison berries because it was dark
+
+What I wish:
+[] To be a TV quiz show contestant"
+			}
+		}
+	}
+}

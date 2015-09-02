@@ -1,0 +1,101 @@
+{
+	"langCodeStr" : "EN",
+	"langCodeEnum" : 0,
+	"langAlphabetLower" : "abcdefghijklmnopqrstuvwxyz",
+	"langAlphabetUpper" : "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+	"langKL_TabletOrderLower" : ["qwertyuiop", "asdfghjkl", "zxcvbnm"],
+	"langKL_TabletOrderUpper" : ["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"],
+	"langKL_AlphaOrderLower" : ["abcdefghij", "klmnopqrs", "tuvwxyz"],
+	"langKL_AlphaOrderUpper" : ["ABCDEFGHIJ", "KLMNOPQRS", "TUVWXYZ"],
+	"localisedStrings" : {
+		"strBaseCollections" : {
+			"GhostB" : {
+				"keyToStrMap" : {
+					"GenericEventPop" : "You have new events.\nCheck your Ghostbook!",
+					"GenericCharUpdatePop" : " has posted an update!\n Access him in your contacts.",
+					"CharacterUnlock" : "You have unlocked a new Ghostbook character!",
+					"PhotoAdd" : "You have unlocked a photo!",
+					"PhotoRemove" : "Oh no! Someone untagged you!"
+				}
+			},
+			"Ac_Common" : {
+				"keyToStrMap" : {
+					"Win" : "You win!",
+					"Lose" : "Better luck next time!"
+				}
+			},
+			"Junkyard" : {
+				"keyToStrMap" : {
+					"EventPop" : "Hey I have some junk to recycle.",
+					"EventNF" : "Recycled for",
+					"Intro" : "When a new word appears, split it into syllables by swiping in the correct places.*When a new word appears, split it into syllables by swiping in the correct places.*The syllables will then turn into object blocks ...*... and the junkyard gates will open!*You can then move the objects around by tapping on them and dragging them with your finger.*You can then move the objects around by tapping on them and dragging them with your finger.*Rearrange the blocks so that they fill up a complete line -*Rearrange the blocks so that they fill up a complete line -*- and Saul will hoover the objects up with his machine!*- and Saul will hoover the objects up with his machine!*If you've been really quick, you can use the 'Go' button to speed up the crane and send in a new word!*Try to get as many hoovered lines as possible!",
+					"Goal" : "Rows to clear:"
+				}
+			},
+			"Music hall" : {
+				"keyToStrMap" : {
+					"EventPop" : "I have a song request for the musician!",
+					"EventNF" : "Sang a song for",
+					"Intro" : "Complete the sentences in Milton's songs by dragging the correct word (/pattern) into the missing slot*Complete the sentences in Milton's songs by dragging the correct word (/pattern) into the missing slot*Complete the sentences in Milton's songs by dragging the correct word (/pattern) into the missing slot*Complete the sentences in Milton's songs by dragging the correct word (/pattern) into the missing slot*Make sure you do this before the music pacer reaches the empty slots!*When you've filled in all the missing slots, use the 'Go' button to speed the pacer up*When you've filled in all the missing slots, use the 'Go' button to speed the pacer up*Each correct choice will bring out a new band member and music lover!*Try to have as many people around as possible at the end!",
+					"Goal" : "Sentences to fix:"
+				}
+			},
+			"Garden" : {
+				"keyToStrMap" : {
+					"EventPop" : "We need to harvest.",
+					"EventNF" : "Harvested some crops for",
+					"Intro" : "Drag the flowers from the harvest table to the machines.*Drag the flowers from the harvest table to the machines.*Drag the flowers from the harvest table to the machines.*The machines will show a description or a pattern or play a sound.*If the word on the table matches the machine, the machines will turn the flowers into Word Matter!*If the word on the table matches the machine, the machines will turn the flowers into Word Matter!*Careful though - the machines don't like it if you put the wrong flowers in them!*Careful though - the machines don't like it if you put the wrong flowers in them!*Try to do as many correct extractions as possible!",
+					"Goal" : "Words to harvest:"
+				}
+			},
+			"Town square" : {
+				"keyToStrMap" : {
+					"EventPop" : "I have new people to meet and greet.",
+					"EventNF" : "Helped meet the mayor",
+					"Intro" : "The display shows the letter or sound that Maya can move onto.*The display shows the letter or sound that Maya can move onto.*The display shows the letter or sound that Maya can move onto.*Tap on correct touching tiles to make Maya move onto them.*Tap on correct touching tiles to make Maya move onto them.*Tap on correct touching tiles to make Maya move onto them.*Tap on correct touching tiles to make Maya move onto them.*Rotate the tiles to match up copies of the displayed letter. You can rotate tiles by double tapping the centre of rotation.*Rotate the tiles to match up copies of the displayed letter. You can rotate tiles by double tapping the centre of rotation.*Rotate the tiles to match up copies of the displayed letter. You can rotate tiles by double tapping the centre of rotation.*Rotate the tiles to match up copies of the displayed letter. You can rotate tiles by double tapping the centre of rotation.*Rotate the tiles to match up copies of the displayed letter. You can rotate tiles by double tapping the centre of rotation.*Help Maya reach her audience by creating a path of tiles.*The faster you can help her reach them, the better!",
+					"Goal" : "Paths to complete:"
+				}
+			},
+			"Monkey hotel" : {
+				"keyToStrMap" : {
+					"EventPop" : "New monkeys need training.",
+					"EventNF" : "Trained some monkeys for",
+					"Intro" : "Throw bananas at the monkeys by tapping on them.*Throw bananas at the monkeys by tapping on them.*Your job is to match the signs that the monkeys are holding to the central display. The central display may show a word or play a sound.*Your job is to match the signs that the monkeys are holding to the central display. The central display may show a word or play a sound.*Be careful though! You only have a few bananas to throw. Don't waste them!*The greater the number of correct banana throws, the better!",
+					"Goal" : "Correct hits:"
+				}
+			},
+			"Post office" : {
+				"keyToStrMap" : {
+					"EventPop" : "I am expecting some mail.",
+					"EventNF" : "Sorted some mail for",
+					"Intro" : "Click on the postmen to see what kind of word patterns they are collecting.*Click on the postmen to see what kind of word patterns they are collecting.*Click on the postmen to see what kind of word patterns they are collecting.*Click on the postmen to see what kind of word patterns they are collecting.*Click on the postmen to see what kind of word patterns they are collecting.*When the parcels go through the x-ray machine you'll be able to see what word patterns they contain -*When the parcels go through the x-ray machine you'll be able to see what word patterns they contain -*- but only for a short time!*You'll have to try and remember what word patterns are in the parcels, then drag these parcels to the correct postman.*If you give a postman the wrong parcel, Peter will remove it and return it to the conveyor. You'll have to try again!*If you give a postman the wrong parcel, Peter will remove it and return it to the conveyor. You'll have to try again!*When all the postmen receive their parcels they'll ride off to deliver them - and a new set of postmen will take their place! The fewer the number of sorting attempts, the better!",
+					"Goal" : "Parcels to sort:"
+				}
+			},
+			"Bridge" : {
+				"keyToStrMap" : {
+					"EventPop" : "I need to get out of town safely.",
+					"EventNF" : "Repaired bridges for",
+					"Intro" : "The display indicates which parts of the bridge need to be strengthened.*The display indicates which parts of the bridge need to be strengthened.*Select these parts either by tapping individual letters ...*Select these parts either by tapping individual letters ...*... or by pressing and dragging.*... or by pressing and dragging.*When you're ready, tap on the 'Go' button. If you've done it correctly, Ella will strengthen those sections and the vehicles will be able to cross!*When you're ready, tap on the 'Go' button. If you've done it correctly, Ella will strengthen those sections and the vehicles will be able to cross!*When you're ready, tap on the 'Go' button. If you've done it correctly, Ella will strengthen those sections and the vehicles will be able to cross!*But watch out if you've made a mistake ...!*Try to strengthen the bridges as quickly as possible!",
+					"Goal" : "Bridges to fix:"
+				}
+			},
+			"Train station" : {
+				"keyToStrMap" : {
+					"EventPop" : "Make sure my train runs on time!",
+					"EventNF" : "Dispatched trains for",
+					"Intro" : "Split the displayed word into syllables by writing the separate syllables on the train carriages.*Split the displayed word into syllables by writing the separate syllables on the train carriages.*Split the displayed word into syllables by writing the separate syllables on the train carriages.*If you want to remove extra carriages, use the 'remove carriage' button, and if you want to add carriages, use the 'add carriage' button.*If you want to remove extra carriages, use the 'remove carriage' button, and if you want to add carriages, use the 'add carriage' button.*Use your finger to scroll across the train yard and tap to select a carriage, or use the 'Next' and 'Previous' buttons.*Use your finger to scroll across the train yard and tap to select a carriage, or use the 'Next' and 'Previous' buttons.*Use your finger to scroll across the train yard and tap to select a carriage, or use the 'Next' and 'Previous' buttons.*When you think you're done, tap on the 'Go' button -*- if you've split the word correctly the people will board the train and the train will leave.*but if you've made a mistake, the passengers will let you know!*The faster you can send off trains, the better!",
+					"Goal" : "Trains required:"
+				}
+			},
+			"Bike shed" : {
+				"keyToStrMap" : {
+					"EventPop" : "So many parcels!",
+					"EventNF" : "Delivered parcels for",
+					"Intro" : "Avoid the monkeys and deliver the parcels!*Avoid the monkeys and deliver the parcels!*Follow the direction to the right house ...*Follow the direction to the right house ...*But make sure the monkeys don't steal your parcels! If they do, you'll have to go back and get them.*But make sure the monkeys don't steal your parcels! If they do, you'll have to go back and get them.*But make sure the monkeys don't steal your parcels! If they do, you'll have to go back and get them.*When you reach the correct house, you will have to knock on the door the correct number of times.*When you reach the correct house, you will have to knock on the door the correct number of times.*This number is the number of syllables in the word on display!*This number is the number of syllables in the word on display!*This number is the number of syllables in the word on display!*This number is the number of syllables in the word on display!*The faster you can deliver the packages, the better!",
+					"Goal" : "Packages to deliver:"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "3",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "His name is Finn and he is a farmer.",
+				"1" : "People in the world of the living leave flowers for the dead. Every time someone leaves flowers, a word plant grows in Finn’s field.",
+				"2" : "It was Finn’s grandfather who discovered that you can extract word energy from the flowers of the word plants. Word energy is their version of electricity and petrol - it’s really important.",
+				"3" : "Each kind of flower needs a different kind of machine to extract its energy.",
+				"4" : "Finn has lots of different machines, but he often gets confused about which flowers to put in which machine.",
+				"5" : "He has heard that I’m the best one in town at this sort of thing."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Finn the Farmer
+
+Occupation:
+[] Farmer
+
+Likes:
+[] Sunbathing, eating rice
+
+Dislikes:
+[] Cleaning, going to the bank
+
+Favourite quote:
+[] If you smile when no one else is around, you really mean it.
+
+Favourite people in the (living) world:
+[] My wife
+
+How I came to be here:
+[] Swallowed too much bubblegum.
+
+What I wish:
+[] That I hadn’t swallowed all of that bubblegum."
+			}
+		}
+	}
+}

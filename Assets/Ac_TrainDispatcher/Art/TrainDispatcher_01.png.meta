@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: fbcdac57a843c4290802ef0d2e922fc8
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TrainFront
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1814
+        width: 283
+        height: 172
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: LightsRed
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1531
+        width: 121
+        height: 407
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Passenger
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1799
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageSilhouette
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1820
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TrainCarriage
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 519
+        height: 328
+      alignment: 9
+      pivot: {x: .50000006, y: .0154467328}
+    - name: KeyboardTile
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1545
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Ground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 1423
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WordDisplay
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 864
+        width: 472
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriagesDisplay
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 864
+        width: 473
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Backdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1423
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LightsGreen
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1531
+        width: 121
+        height: 407
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Wheel
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1810
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageSelection
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1443
+        width: 548
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageBack
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1174
+        width: 451
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageLeft_Up
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 807
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageRight_Up
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 807
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TrainButton_Up
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 691
+        width: 189
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageLeft_Down
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 563
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CarriageRight_Down
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 563
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TrainButton_Down
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 447
+        width: 189
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Plus
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1780
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Minus
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1792
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BackspaceSymbol
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 717
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

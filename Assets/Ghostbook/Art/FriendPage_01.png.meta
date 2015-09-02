@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: da8b6c155545f4ba0a0261e13ad13cc1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ContactsBackdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397
+        width: 865
+        height: 651
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SolomonFace
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1785
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SerenadeFace
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1785
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MayorFace
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1785
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: HarvesterFace
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1785
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MailManFace
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1485
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EngineerFace
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1485
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ZookeepFace
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1485
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TrainDriverFace
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1485
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EventsBackdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 865
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MailMan2Face
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1198
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedSolomon
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1198
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedSerenade
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1198
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedMayor
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1198
+        width: 223
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedHarvester
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 911
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedMailMan
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 911
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedEngineer
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 911
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedZooKeep
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 911
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedTrainDriver
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 610
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LockedMailMan2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 612
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PhotoAlbum
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 34
+        width: 223
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBanner
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 607
+        width: 210
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBackdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 865
+        height: 651
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Map&Photos
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 45
+        width: 367
+        height: 224
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: BioButton
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 322
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MapButton
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 322
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PhotosButton
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 322
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: GoLeft
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 328
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: GoRight
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 329
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NameBar_Base
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 480
+        width: 174
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NameBar_Top
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 421
+        width: 178
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Bio
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 325
+        width: 510
+        height: 224
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: GhostBookMap
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 43
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ContactsTab
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 545
+        width: 189
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EventsTab
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 493
+        width: 187
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsfeedTab
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 435
+        width: 192
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

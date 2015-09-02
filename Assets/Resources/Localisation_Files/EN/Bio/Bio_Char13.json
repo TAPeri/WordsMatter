@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "13",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Warren the Weatherman
+
+Occupation:
+[] Weatherman (previously worked for the FBI)
+
+Likes:
+[] Looking for crop circles, sunshine
+
+Dislikes:
+[] Stormy weather, getting wet
+
+Favourite quote:
+[] Lightening never strikes twice in the same place
+
+Favourite people in the (living) world:
+[] My best friend Daisy
+
+How I came to be here:
+[] Struck by lightening
+
+What I wish:
+[] To invent an invisible umbrella that never blows inside out."
+			}
+		}
+	}
+}

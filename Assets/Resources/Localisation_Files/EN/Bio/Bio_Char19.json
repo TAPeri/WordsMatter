@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "19",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Lauren the Lawyer
+
+Occupation:
+[] Lawyer (previously bank robber)
+
+Likes:
+[] Money, running, sudoko puzzles
+
+Dislikes:
+[] Pound shops
+
+Favourite quote:
+[] Money makes the world go around
+
+Favourite people in the (living) world:
+[] Lawrence my partner in crime
+
+How I came to be here:
+[] Run over by the getaway car on our last bank job
+
+What I wish:
+[] I want to be a billionaire"
+			}
+		}
+	}
+}

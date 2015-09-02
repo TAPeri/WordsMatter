@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: c4a4899b6e1af4693a5b85c883e50769
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ReturnConveyerLeft
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1921
+        width: 1753
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box1
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1232
+        width: 152
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box2
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1213
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box3
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1214
+        width: 147
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ConveyerRight
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1440
+        width: 1231
+        height: 367
+      alignment: 1
+      pivot: {x: 0, y: 1}
+    - name: Backdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1424
+        height: 801
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XRayBack
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 351
+        width: 354
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XRayMachine
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 31
+        width: 354
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PlatformBase
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 32
+        width: 83
+        height: 225
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BikeWheel
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1570
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PlatformMid
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 271
+        width: 46
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PlatformTop
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 524
+        width: 197
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PlatformSurface
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 834
+        width: 197
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Basket
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 879
+        width: 210
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BikeRod
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1148
+        width: 436
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BikePart
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1028
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LightsBox
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 78
+        width: 68
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XRayOff
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 633
+        width: 288
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: XRayOn
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 824
+        width: 288
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ConvCogBig
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1908
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ConvCogSmall
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1929
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LightsOff
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 851
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LightsRed
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 851
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LightsGreen
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 851
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Platform2Top
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1071
+        width: 72
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Platform2Mid
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1135
+        width: 46
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box4
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1214
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box3_Alt
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1084
+        width: 147
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box2_Alt
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1083
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box1_Alt
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1102
+        width: 152
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Box4_Alt
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1084
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "14",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Sophie the Spy
+
+Occupation:
+[] Spy
+
+Likes:
+[] Playing hide and seek, other people's chocolate
+
+Dislikes:
+[] Loud noises, spotlights
+
+Favourite quote:
+[] Silence can be louder than words
+
+Favourite people in the (living) world:
+[] A spy does not have friends and family
+
+How I came to be here:
+[] Fell down a surprisingly large rabbit hole
+
+What I wish:
+[] That one day I could have a real friend"
+			}
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "20",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Dorothy the Doctor
+
+Occupation:
+[] Doctor (previously professional jockey)
+
+Likes:
+[] Horse riding, shooting, swimming in the sea
+
+Dislikes:
+[] Lazy people, getting up late
+
+Favourite quote:
+[] An apple a day keeps the doctor away
+
+Favourite people in the (living) world:
+[] My horse Black Jack
+
+How I came to be here:
+[] Thrown off an unruly horse
+
+What I wish:
+[] To be able to ride Black Jack along the beach again"
+			}
+		}
+	}
+}

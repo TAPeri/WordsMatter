@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 15d0b313fb01b4d04b3fdcb78cf2139e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unlocked_SC01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC02
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC03
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC04
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC05
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC06
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1792
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC07
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1792
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC08
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1792
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC02
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC03
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC04
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC05
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC06
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1539
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC07
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1539
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC08
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1539
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC09
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC13
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1286
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1286
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1286
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC09
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC12
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC13
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1033
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC15
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1033
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1033
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC20
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 780
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC23
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 780
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC24
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 780
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC20
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 527
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC23
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 527
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC24
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 520
+        width: 223
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Unlocked_SC25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 274
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Locked_SC25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 224
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

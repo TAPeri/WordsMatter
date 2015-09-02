@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "17",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Gita the Guitarist
+
+Occupation:
+[] Guitar player (previously composer)
+
+Likes:
+[] Going on long bike rides, rock music
+
+Dislikes:
+[] Punctures, broken strings
+
+Favourite quote:
+[] It's better to carry a tune than a grudge
+
+Favourite people in the (living) world:
+[] My best friend Tom
+
+How I came to be here:
+[] A broken heart
+
+What I wish:
+[] I get the chance to sing the love song I wrote for Tom to him"
+			}
+		}
+	}
+}

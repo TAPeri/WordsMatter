@@ -1,0 +1,45 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "0",
+				"MaxBioSections" : "5"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "His name is Milton",
+				"1" : "He is a musician and he wants to be a famous pop star. Right now, he does a lot of busking.",
+				"2" : "When he performs well, lots of the townspeople gather to listen.",
+				"3" : "And his musician friends come out to join him.",
+				"4" : "He has a little trouble with knowing which words to sing though, and has heard that I might be able to help."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Milton the Musician
+
+Occupation
+[] Busker (previously a famous popstar)
+
+Likes
+[] Jamming with my friends, monkey spotting
+
+Dislikes
+[] Feeling uninspired
+
+Favourite quote
+[] I dream, therefore I exist.
+
+Favourite people in the (living) world
+[] All of my fans
+
+How I came to be here
+[] Boating accident
+
+What I wish
+[] To make millions of people happy"
+			}
+		}
+	}
+}

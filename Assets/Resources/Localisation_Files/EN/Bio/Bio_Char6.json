@@ -1,0 +1,46 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "6",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "Her name is Ella.",
+				"1" : "She maintains the bridges that between our town and other towns.",
+				"2" : "The bridges are made out of word matter. And you know word matter is unstable.",
+				"3" : "Unfortunately this means that the bridges collapse a lot.",
+				"4" : "She knows how to fix the bridges, but she's not very good at telling which parts of the bridge might collapse",
+				"5" : "She has heard from the other townspeople that I might have the skills for the job."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Ella the Engineer
+
+Occupation:
+[] Engineer (previously worked as an architect)
+
+Likes:
+[] Singing, going for walks at night
+
+Dislikes:
+[] Scary movies, storms
+
+Favourite quote:
+[] Never wear your best trousers when you go out to fight for freedom and truth.
+
+Favourite people in the (living) world:
+[] My sister
+
+How I came to be here:
+[] Very poor health.
+
+What I wish:
+[] To go dancing with my sister"
+			}
+		}
+	}
+}

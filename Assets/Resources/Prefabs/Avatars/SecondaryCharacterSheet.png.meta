@@ -1,0 +1,4905 @@
+fileFormatVersion: 2
+guid: 8af48afee613546799f380539f693287
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TmpHeadFront
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1965
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpArm
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1986
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: TmpLegWhole
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1983
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpTorso
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1973
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpHandFrSd
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1968
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpHeadSide
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1884
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpLegUpper
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1922
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpFootSide
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1933
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpLegLower
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1899
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpFootFront
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1971
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpHeadBack
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1977
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: TmpHandBack
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1984
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1965
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Arm
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1986
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SC01_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1984
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1983
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Torso
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1977
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1971
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1973
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Arm
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1986
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: AV01_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1986
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1984
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Torso
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1977
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1974
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1973
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Arm
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1988
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: AV02_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1986
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1984
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Torso
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1977
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1974
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Hand
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1967
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1971
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Hand
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1972
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1970
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Hand
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1972
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1970
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1886
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1933
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1894
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1894
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1922
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_LegLower
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_LegLower
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1894
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_LegLower
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1894
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1898
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Shadow
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1893
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1898
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1898
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC01_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1899
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV01_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1896
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: AV02_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1896
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1965
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Arm
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1989
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SC02_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1984
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1984
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Torso
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1977
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1973
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1965
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Arm
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1990
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SC03_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1984
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1984
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Torso
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1977
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1971
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1965
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Arm
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1990
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1984
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1984
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Torso
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1977
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1973
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1965
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Arm
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1990
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1984
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1984
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Torso
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1977
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1975
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Hand
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1968
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1970
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Hand
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1968
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1970
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_83
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1968
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_84
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1970
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_85
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1968
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1970
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1886
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1898
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1899
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1886
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1898
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1899
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1886
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1898
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1899
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1886
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1921
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_104
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1933
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1898
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1899
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC02_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC03_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC04_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC05_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1896
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1781
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_Torso
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1776
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1803
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1777
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1761
+        width: 89
+        height: 80
+      alignment: 9
+      pivot: {x: .493266255, y: .538137794}
+    - name: PC01_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1795
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC01_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1774
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Torso
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1814
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1736
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1736
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1807
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1822
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1759
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Arm
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1828
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: PC02_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1803
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1724
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_LegLower
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1725
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC02_Wrench
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1820
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: .165651113, y: .799594223}
+    - name: BigPC03_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 384
+        width: 186
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 203
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 476
+        width: 185
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Arm
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 489
+        width: 84
+        height: 126
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: BigPC03_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 464
+        width: 63
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Torso
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 435
+        width: 130
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Foot_Fr
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 405
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 251
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 102
+        width: 128
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 107
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_LegLower
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 95
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 202
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Hand
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 396
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigPC03_Hand_Bk
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 465
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigSC04_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 389
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigSC04_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 59
+        width: 195
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigSC04_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 202
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigSC04_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 95
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BigSC04_Foot_Sd
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 236
+        width: 71
+        height: 41
+      alignment: 9
+      pivot: {x: .484354377, y: .696978331}
+    - name: BigSC04_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 51
+        width: 152
+        height: 236
+      alignment: 9
+      pivot: {x: .308132768, y: .655812681}
+    - name: BigSC04_Arm
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 489
+        width: 84
+        height: 126
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: BigSC04_Hand
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 465
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1727
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1803
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Arm
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1827
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_154
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1821
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1821
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Torso
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1814
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1810
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1805
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Arm
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1830
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_160
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1824
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1824
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Torso
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1817
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1813
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1805
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Arm
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1830
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_166
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1824
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1824
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Torso
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1817
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1811
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1805
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Arm
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1830
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_172
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1824
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1824
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Torso
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1817
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1809
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1805
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Arm
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1830
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_178
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1824
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1824
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Torso
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1816
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1811
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_182
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1806
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_183
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1808
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_184
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1805
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_185
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1807
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_186
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_187
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1810
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_188
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_189
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1810
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_190
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_191
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1810
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_192
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_193
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1810
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_194
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1771
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1759
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_196
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1771
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1736
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1737
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1726
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1761
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_201
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1738
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1739
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1726
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1761
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_206
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1738
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1739
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1726
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1761
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_211
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1738
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1739
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1726
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1761
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_216
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1773
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1738
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1739
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC03_LegLower
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1734
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC06_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1736
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC07_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1736
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC08_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1736
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC09_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1736
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Arm
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_226
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Torso
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1642
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Arm
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_232
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Torso
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1642
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Arm
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_238
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Torso
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1643
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Arm
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_244
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Torso
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1643
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Arm
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_250
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Torso
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1648
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Arm
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_256
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Torso
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1648
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Arm
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_262
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Torso
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1646
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1640
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Arm
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1664
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_268
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1658
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1658
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Torso
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1651
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1647
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_272
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_273
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_274
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_275
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_276
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_277
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_278
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_279
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_280
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_281
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_282
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_283
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_284
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_285
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_286
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1642
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_287
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1644
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_290
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_295
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_300
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_305
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_310
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_315
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1560
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_320
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1564
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1595
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_325
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1607
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1572
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1573
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC10_LegLower
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC11_LegLower
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC12_LegLower
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC13_LegLower
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC14_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC15_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC16_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC17_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1570
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Arm
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_338
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Torso
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1475
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Arm
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_344
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Torso
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1477
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Arm
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_350
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Torso
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1478
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Arm
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_356
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Torso
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1475
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Arm
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_362
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Torso
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1477
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Arm
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_368
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Torso
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1478
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Arm
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_374
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Torso
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1477
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1470
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Arm
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1495
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_380
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1489
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Torso
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1482
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1476
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_384
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_385
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_386
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_387
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_388
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_389
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_390
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_391
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_392
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_393
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_394
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_395
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_396
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_397
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_398
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_399
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1475
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_402
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_407
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_412
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_417
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_422
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_427
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_432
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1391
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1426
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_437
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1438
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1403
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1404
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC18_LegLower
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC19_LegLower
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC20_LegLower
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC21_LegLower
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC22_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC23_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC24_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SC25_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_448
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 464
+        width: 63
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_449
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 435
+        width: 130
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_450
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 476
+        width: 185
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_451
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 422
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_452
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 405
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_453
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 401
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_454
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 396
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_455
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 107
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1299
+        width: 91
+        height: 67
+      alignment: 9
+      pivot: {x: .459829181, y: .387420207}
+    - name: PC04_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1313
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_Torso
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1306
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1314
+        width: 81
+        height: 54
+      alignment: 9
+      pivot: {x: .499999821, y: .224860296}
+    - name: PC04_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1229
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1228
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1251
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_LegLower
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1226
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC04_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1219
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: .459407657, y: .378532648}
+    - name: PC04_Arm
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1274
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: PC06_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1287
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC06_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1212
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC06_Torso
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1296
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: .5, y: .616705894}
+    - name: PC06_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1212
+        width: 35
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .638464987}
+    - name: PC06_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1215
+        width: 36
+        height: 57
+      alignment: 9
+      pivot: {x: .491894186, y: .607492566}
+    - name: PC06_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1316
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: .505518138, y: .216308594}
+    - name: PC06_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1313
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC06_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1251
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC06_LegLower
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1226
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC06_Arm
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1319
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: PC07_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1295
+        width: 102
+        height: 76
+      alignment: 9
+      pivot: {x: .486573458, y: .318735212}
+    - name: PC07_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1207
+        width: 97
+        height: 77
+      alignment: 9
+      pivot: {x: .48861286, y: .35343793}
+    - name: PC07_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1308
+        width: 102
+        height: 55
+      alignment: 9
+      pivot: {x: .496163756, y: .0889382139}
+    - name: PC07_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1251
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC07_LegLower
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1226
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC07_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1313
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC07_Torso
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1306
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC07_Arm
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1354
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: PC07_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1227
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC07_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1228
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_Arm
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1352
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: PC05_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1316
+        width: 59
+        height: 39
+      alignment: 9
+      pivot: {x: .5, y: .127385065}
+    - name: PC08_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1315
+        width: 49
+        height: 43
+      alignment: 9
+      pivot: {x: .510189116, y: .155971795}
+    - name: PC09_Head_Bk
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1314
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: .500005186, y: .196871951}
+    - name: PC05_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1305
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: .499999493, y: .357192993}
+    - name: SecondaryCharacterSheet_491
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1313
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_Torso
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1306
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_494
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_495
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1304
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Arm
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1351
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_498
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1312
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Torso
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1305
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Head_Fr
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1300
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Arm
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1318
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: .800000012, y: .899999976}
+    - name: SecondaryCharacterSheet_503
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1313
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_LegWhole
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1312
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Torso
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1304
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_506
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_507
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1296
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_508
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_509
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_510
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_511
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1291
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_512
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_513
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_514
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_515
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_516
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1299
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_517
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1284
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_518
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1285
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_519
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1223
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: .59986186, y: .436521053}
+    - name: PC05_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1251
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_522
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1228
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1229
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_525
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_526
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1225
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1247
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_529
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1227
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1228
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Head_Sd
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1221
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_LegUpper
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1249
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SecondaryCharacterSheet_534
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1263
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Torso_Sd
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1226
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_Torso_Bk
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1226
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC05_LegLower
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1226
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC08_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1225
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PC09_LegLower
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1224
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

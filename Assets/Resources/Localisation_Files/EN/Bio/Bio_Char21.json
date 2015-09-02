@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "21",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Sam the Sausage Maker
+
+Occupation:
+[] Butcher 
+
+Likes:
+[] Eating, taking part in hotdog eating competitions
+
+Dislikes:
+[] Staying still, being hungry
+
+Favourite quote:
+[] What does it taste like?
+
+Favourite people in the (living) world:
+[] My dog Harry
+
+How I came to be here:
+[] Fell asleep and woke up here!
+
+What I wish:
+[] To play fetch with Harry again"
+			}
+		}
+	}
+}

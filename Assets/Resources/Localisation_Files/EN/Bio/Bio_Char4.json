@@ -1,0 +1,47 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "4",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "Her name is Monica.",
+				"1" : "She says there’s a monkey problem here - the town is filled with monkeys! They’re quite naughty too, they love stealing.",
+				"2" : "Monica noticed that they especially like stealing post office packages because they’re fascinated by words. She hopes they can learn to be helpful rather than annoying. But first they need to learn how to read.",
+				"3" : "She has lots of bananas to reward them with when they do well.",
+				"4" : "But Monica isn't a great teacher. She doesn’t give them the bananas at the right time. So the monkeys get fat and learn nothing",
+				"5" : "She’s wondering if I can help."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Monica the Monkey Trainer
+
+Occupation:
+[] Monkey Trainer (previously a circus performer)
+
+Likes:
+[] Performing on the tightrope, training circus animals
+
+Dislikes:
+[] Paperwork, rainy days
+
+Favourite quote:
+[] You got to be careful if you don't know where you're going, because you might not get there.
+
+Favourite people in the (living) world:
+[] My family!
+
+How I came to be here:
+[] Freak accident involving a tightrope fall and a safety net breakage.
+
+What I wish:
+[] That monkeys would stop stealing my mail
+"
+			}
+		}
+	}
+}

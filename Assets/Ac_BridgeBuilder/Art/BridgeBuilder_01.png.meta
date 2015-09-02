@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 0f71472c31e8f453586bfd55f42daf57
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: CliffLeft
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 288
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: CliffRight
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1056
+        width: 288
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: LetterTile
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1088
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Connector
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1101
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PipeBig
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 822
+        width: 28
+        height: 461
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: VehicleBody_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1878
+        width: 330
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Textdisplay
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 823
+        width: 732
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PipeSmall
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 822
+        width: 28
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: PipeMid
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 822
+        width: 29
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Backdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1423
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WheelBack
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 813
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WheelFront
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 813
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Clamp
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1119
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ScaffoldL
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1258
+        width: 103
+        height: 426
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ScaffoldR
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1258
+        width: 103
+        height: 429
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ScaffoldFloor
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1813
+        width: 1571
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WrenchCounter
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1716
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: VehicleBody_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1871
+        width: 367
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: VehicleBody_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1836
+        width: 328
+        height: 212
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: VehicleBody_4
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1874
+        width: 341
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "11",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Jane the Junk Pirate
+
+Occupation:
+[] Junk Pirate (previously pirate)
+
+Likes:
+[] Fixing broken things, hoarding
+
+Dislikes:
+[] Throwing things away.
+
+Favourite quote:
+[] Ahoy there, matey!
+
+Favourite people in the (living) world:
+[] My grand daughter, my parrot Holly.
+
+How I came to be here:
+[] A fight with a shark that did not go well for me.
+
+What I wish:
+[] To go swimming with my grand daughter."
+			}
+		}
+	}
+}

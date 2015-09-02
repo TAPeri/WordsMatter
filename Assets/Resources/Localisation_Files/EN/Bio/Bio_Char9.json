@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "9",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Conrad the Contortionist
+
+Occupation:
+[] Contortionist
+
+Likes:
+[] Squeezing into small spaces
+
+Dislikes:
+[] When people are not staring at me
+
+Favourite quote:
+[] You only die once
+
+Favourite people in the (living) world:
+[] I don’t do favourites
+
+How I came to be here:
+[] Tried to squeeze myself into a jar
+
+What I wish:
+[] That bones didn’t make being a contortionist so difficult"
+			}
+		}
+	}
+}

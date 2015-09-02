@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "23",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Morgan the Mountaineer
+
+Occupation:
+[] Climbing mountains
+
+Likes:
+[] Scenic views, fresh air, rocks
+
+Dislikes:
+[] Quitters
+
+Favourite quote:
+[] If at first you don't succeed, try, try again
+
+Favourite people in the (living) world:
+[] My husband
+
+How I came to be here:
+[] Some dodgy climbing ropes
+
+What I wish:
+[] To be able to climb every mountain"
+			}
+		}
+	}
+}

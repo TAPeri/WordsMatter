@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: a645283b00fdc453f8c45102f8bc1935
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sol_RightArm
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 114
+        height: 173
+      alignment: 9
+      pivot: {x: .724786341, y: .159312516}
+    - name: Sol_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 391
+        width: 130
+        height: 63
+      alignment: 9
+      pivot: {x: .0471629202, y: .83723861}
+    - name: Sol_LeverBase
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 355
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Sol_Head
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 191
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Sol_FrontLeg
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 123
+        height: 226
+      alignment: 9
+      pivot: {x: .117682233, y: .926301241}
+    - name: Sol_BackLeg
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 155
+        width: 97
+        height: 157
+      alignment: 9
+      pivot: {x: .121623874, y: .909104466}
+    - name: Sol_Torso
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Sol_Lever
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 402
+        width: 34
+        height: 73
+      alignment: 8
+      pivot: {x: 1, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 6f7e91b01cb044d5f96da4255cadea92
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ResultScreens_ButtonBase
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1663
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ResultScreens_ButtonTop
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1309
+        width: 307
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ResultScreens_ButtonShadow
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 939
+        width: 306
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ResultScreens_A
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1030
+        width: 1489
+        height: 949
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ResultScreens_B
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 1489
+        height: 950
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

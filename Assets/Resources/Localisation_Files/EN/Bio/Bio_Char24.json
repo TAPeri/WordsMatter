@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "24",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Tyler the Tailor
+
+Occupation:
+[] Clothes designer (previously photographer)
+
+Likes:
+[] Bright colours, suits, shopping
+
+Dislikes:
+[] Scruffy people
+
+Favourite quote:
+[] You look fabulous darling
+
+Favourite people in the (living) world:
+[] My nephew Ralph
+
+How I came to be here:
+[] I fell off a very high wall
+
+What I wish:
+[] That the police would take fashion crimes more seriously"
+			}
+		}
+	}
+}

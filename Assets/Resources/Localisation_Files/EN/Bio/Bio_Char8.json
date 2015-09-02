@@ -1,0 +1,45 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "8",
+				"MaxBioSections" : "5"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "Her name is Pauline and she delivers the mail.",
+				"1" : "She says the mail delivery team are snowed under with packages today.",
+				"2" : "Because the packages are made of unstable matter, they need to be delivered quickly. Any dilly-dallying and they might disappear.",
+				"3" : "Recently, monkeys have been been causing trouble in the neighbourhood. Now the locals are afraid to open their doors. They only open the door if you knock a certain number of times. But you can figure out the number of knocks from the word on their door.",
+				"4" : "Pauline wants to know if I can help the mail delivery team. She says to watch out for the monkeys because they have a thing for stealing packages"
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Pauline the Postie
+
+Occupation:
+[] Postie (previously tennis player)
+
+Likes:
+[] Playing tennis, watching fireworks
+
+Dislikes:
+[] Peanut butter and blue cheese ice cream
+
+Favourite quote:
+[] We must use time as a tool, not as a couch.
+
+Favourite people in the (living) world:
+[] My cat Marlene
+
+How I came to be here:
+[] A terrible tennis accident
+
+What I wish:
+[] That Marlene lived here."
+			}
+		}
+	}
+}

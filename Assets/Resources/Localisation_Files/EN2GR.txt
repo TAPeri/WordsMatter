@@ -1,0 +1,111 @@
+Packages,Δέματα
+Distractors,Αριθμός άκυρων επιλογών
+Rotating speed,Ταχύτητα περιστροφής
+Monkey speed,Ταχύτητα των μαϊμούδων
+Square size,Μέγεθος της πλατείας
+Split time,Χρόνος συλλαβισμού
+Fill time,Χρόνος συμπλήρωσης
+Word difficulty,Δυσκολία λέξεων
+Number of words,Αριθμός λέξεων
+Number of rounds,Αριθμός γύρων
+Words per difficulty,Λέξεις ανά δυσκολία
+Game results,Αποτελέσματα
+Pedagogical results,Παιδαγωγικά αποτελέσματα
+Student username,Μαθητής
+Student password,Κωδικός μαθητή
+Teacher username,Δάσκαλος
+Teacher password,Κωδικός δασκάλου
+Student,Μαθητής
+Teacher,Δάσκαλος
+Ok,Εντάξει
+Wrong username or password,Λάθος όνομα χρήστη ή κωδικός
+No internet connection,Καμία σύνδεση στο διαδίκτυο
+Quest giver,Φιλαράκος
+Activity played,Παιχνίδι
+Language area,Γλωσσική περιοχή
+Difficulty,Δυσκολία
+Success!,Μπράβο!
+Tutorial,Οδηγίες
+Slides,Διαφάνειες
+Portrait,Φωτογραφία
+Activity options,Επιλογές παιχνιδιού
+Applicable activities,Διαθέσιμα παιχνίδια
+Teacher options,Επιλογές για δασκάλους
+Previous,Προηγούμενο
+Next,Επόμενο
+No available events.\nCome back later!,Δεν υπάρχουν διαθέσιμες εκδηλώσεις.\n Τα λέμε αργότερα! 
+Back to the world,Επιστροφή στον κόσμο
+Full correct bridges,Σωστές γέφυρες
+Broken bridges,Σπασμένες γέφυρες
+Time,Χρόνος
+Correct harvests,Σωστές επιλογές
+Broken machines,Λάθος επιλογές
+Paths completed,Ολοκληρωμένα μονοπάτια
+Tile missteps,Στραβοπατήματα
+Rotations,Περιστροφές
+Correct attempts,Σωστές προσπάθειες
+Incorrect attempts,Λανθασμένες προσπάθειες
+Packages stolen,Κλεμμένα πακέτα
+Correct deliveries,Επιτυχείς παραδόσεις
+Wrong deliveries,Λάνθασμένες παραδόσεις
+Correct words,Σωστές λέξεις
+Incorrect tries,Λανθασμένες προσπάθειες
+Final person count,Φίλοι που μας άκουσαν
+Lines completed,Ολοκληρωμένες γραμμές
+Correct splits,Σωστές διασπάσεις
+Incorrect splits,Λάθος διασπάσεις
+Correct trains,Σωστά τρένα
+Fed correct monkey,Σωστές μαϊμούδες που ταΐστηκαν
+Missed correct monkey,Σωστές μαϊμούδες που έμειναν νυστικές
+Fed incorrect monkey,Λάθος μαϊμούδες που ταΐστηκαν
+Activity paused,Παύση παιχνιδιού
+Return to activity,Επιστροφή στο παιχνίδι
+Settings,Ρυθμίσεις
+Exit activity,Έξοδος
+Text-to-speech,Αυτόματο διάβασμα κειμένων
+Off,Όχι
+On,Ναι
+Accuracy,Ακρίβεια
+Alternatives,Εναλλακτικές
+Words per door,Λέξεις ανά πόρτα
+Speed,Ταχύτητα
+Low,Χαμηλή
+Medium,Μεσαία
+High,Υψηλή
+Mode,Λειτουργία
+Letter to letter,Γράμμα με γράμμα
+Letter to word,Γράμμε με λέξη
+Word to word,Λέξη με λέξη
+Easy,Εύκολο
+Hard,Δύσκολο
+Tricky words,Περίεργες λέξεις
+Success,Μπράβο
+You are helping,Βοηθάς τον/την
+Activity goal,Στόχος του παιχνιδιού
+Revise,Δες τα λάθη σου
+Items,Λέξεις
+Next word,Επόμενη λέξη
+An error has occurred.,Υπάρχει σφάλμα.
+Sending your progress to the server,Αποστολή των αποτελεσμάτων στον κεντρικό υπολογιστή
+Retrieving server update,Λήψη ανανεωμένων στατιστικών
+Junkyard,Σκουπιδότοπος
+Music hall,Μέγαρο
+Garden,Κήπος
+Town square,Πλατεία
+Monkey hotel,Μαϊμουδο-ξενοδοχείο
+Post office,Ταχυδρομείο
+Bridge,Γέφυρα
+Train station,Σταθμός τρένου
+Bike shed,Ποδηλατάδικο
+Meet,Βρες τον/την
+[Failed],[απέτυχε]
+[Ok],[ολοκληρώθηκε]
+Return to game,Επιστροφή στο παιχνίδι
+Story,Ιστορία
+Exit game,Έξοδος
+Attempts,προσπάθειες
+Play again,ξαναπαίζω
+Number of paths,Αριθμός μονοπάτια
+Postman,ταχυδρόμος
+Parcel,Δέματα
+Knocks,χτυπήματα

@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "22",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Barry the Banana Grower
+
+Occupation:
+[] Banana growing (previously dietician)
+
+Likes:
+[] Banana splits, sunshine, the colour yellow
+
+Dislikes:
+[] Green bananas, monkeys
+
+Favourite quote:
+[] No man is an island
+
+Favourite people in the (living) world:
+[] My children
+
+How I came to be here:
+[] Going on a 'banana only' diet
+
+What I wish:
+[] Someone would invent monkey repellent for bananas"
+			}
+		}
+	}
+}

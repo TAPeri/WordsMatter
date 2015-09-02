@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 90b3873327745469da6d72cec94bba06
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Monkey1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1712
+        width: 312
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Banana
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1650
+        width: 323
+        height: 378
+      alignment: 9
+      pivot: {x: .60077548, y: .279935002}
+    - name: WhackaMonkey_01.00_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1396
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WordDisplay
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1396
+        width: 552
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WhackaMonkey_Backdrop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 1832
+        height: 843
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BananaCounter
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1772
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WindowFrame
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1564
+        width: 394
+        height: 404
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ShutterClosed
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1645
+        width: 161
+        height: 283
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ShutterOpen
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1633
+        width: 140
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyEating_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 935
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyEating_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 935
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyEating_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 935
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyEating_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 935
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyEating_5
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 935
+        width: 271
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

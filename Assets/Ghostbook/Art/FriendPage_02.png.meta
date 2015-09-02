@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: fc65784f144064ff89cb878e3ec047fa
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EventsBannerNarrow
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1829
+        width: 633
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EventsBannerNarrow_NEW
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1808
+        width: 673
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EventsBannerThick
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1519
+        width: 633
+        height: 258
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: EventsBannerThick_NEW
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1500
+        width: 674
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBannerNarrow
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1320
+        width: 632
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBannerNarrow_NEW
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1302
+        width: 674
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBannerThick
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1015
+        width: 633
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: NewsBannerThick_NEW
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 994
+        width: 672
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

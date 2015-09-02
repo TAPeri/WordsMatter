@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "12",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Cherie the Chef
+
+Occupation:
+[] Chef (previously the royal cake tester)
+
+Likes:
+[] Thinking of crazy new recipes, eating cake, food fights
+
+Dislikes:
+[] Carrots (except in carrot cake!)
+
+Favourite quote:
+[] Life is short, eat dessert first!
+
+Favourite people in the (living) world:
+[] My mum
+
+How I came to be here:
+[] Had one slice of cake too many
+
+What I wish:
+[] To taste my mum's homemade apple pie one more time"
+			}
+		}
+	}
+}

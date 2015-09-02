@@ -1,0 +1,47 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "2",
+				"MaxBioSections" : "6"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+				"0" : "She is the Mayor of the town, her name is Maya.",
+				"1" : "As mayor, she often has to meet with townspeople and visitors from far away. She welcomes them and helps them sort out their problems",
+				"2" : "The town square is where the meetings take place",
+				"3" : "But the square is made of tricky, shifting word matter. And it cannot be crossed in any old way - you need to cross it using special patterns",
+				"4" : "When Maya's crossing the square, she gets easily confused.",
+				"5" : "She wants to know if I’ll help her cross the square. She’s heard I’m better at this kind of thing than she is."
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Maya the Mayor
+
+Occupation:
+[] Mayor (previously worked in a call centre)
+
+Likes:
+[] Extravagant hats, parties with friends, chocolate cookies
+
+Dislikes:
+[] Silence, dealing with angry people
+
+Favourite quote:
+[] Wherever you go, there you are.
+
+Favourite people in the (living) world:
+[] My children and my grandchildren.
+
+How I came to be here:
+[] Old age - too much of it.
+
+What I wish:
+[] That my family never forgets me!
+"
+			}
+		}
+	}
+}

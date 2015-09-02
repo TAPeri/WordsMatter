@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "16",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Travis the Trumpet Player
+
+Occupation:
+[] Trumpet player (previously town crier)
+
+Likes:
+[] Marching bands, playing football
+
+Dislikes:
+[] Rust, potholes
+
+Favourite quote:
+[] The road to success is not easy to navigate
+
+Favourite people in the (living) world:
+[] My pet canary
+
+How I came to be here:
+[] One day I just ran out of puff
+
+What I wish:
+[] To make trumpet playing cool again"
+			}
+		}
+	}
+}

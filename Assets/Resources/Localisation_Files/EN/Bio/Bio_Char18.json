@@ -1,0 +1,40 @@
+{
+	"strBaseCollections" : {
+		"MetaData" : {
+			"keyToStrMap" : {
+				"CharID" : "18",
+				"MaxBioSections" : "0"
+			}
+		},
+		"BioSections" : {
+			"keyToStrMap" : {
+			}
+		},
+		"FullBioMap" : {
+			"keyToStrMap" : {
+				"Full" : "Drew the Drummer
+
+Occupation:
+[] Bongo player (previously shop keeper)
+
+Likes:
+[] Chilling out, drinking smoothies, dancing to the beat
+
+Dislikes:
+[] Bossy people
+
+Favourite quote:
+[] Go with the beat and dance like a crazy person!
+
+Favourite people in the (living) world:
+[] My twin sister
+
+How I came to be here:
+[] A nasty accident involving a tube of superglue
+
+What I wish:
+[] That I could dance on the ceiling"
+			}
+		}
+	}
+}

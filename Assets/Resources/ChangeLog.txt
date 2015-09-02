@@ -1,0 +1,25 @@
+ChangeLog - ILearnRW 25th Sept 2014 Build
+
+[Demo]
+
+This Demo features ghostbook, junkyard, customisation updates and various bug fixes.
+
+Ghostbook contact grid can now be split into sections. As an example, the demo partitions main characters and secondary characters. This will be adapted to partition characters according to language areas if necessary.
+
+Ghostbook also features the second version of the photo/album system. Each character now has a single album but multiple pages within said album. Pages correspond to a difficulty within a language area. The contents page of the album shows a scrollable area for quickly navigating to a particular page. Return to the contents page at any time by clicking the bookmark.
+
+A photo page contains 4 spots for photos. Eventually, players will be able to launch a quest/activity for a particular difficulty by pressing the play button on a particular album page.
+
+Re: Player customisation. Apart from scene updates, players can now return to the customisation scene at any time by clicking on the player's house within the world view.
+
+Offline mode is recommended for testing.
+
+
+[Changes/New Features]
+
+* Updated Ghostbook (Contact Grid + Photo/Album System).
+* Updated Player Customisation Scene.
+* Updated Junkyard activity.
+* Updated Progress System.
+* Server logs (v1).
+* Various bug fixes.

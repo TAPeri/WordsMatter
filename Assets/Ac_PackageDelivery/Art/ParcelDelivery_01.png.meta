@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: ff06a11335ec145c490299f426ac7ca7
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MonkeyDown1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyDown2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyDown3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyLeft1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyLeft2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyLeft3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyUp1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyUp2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyUp3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Door1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 769
+        height: 1024
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorInner_01
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 469
+        height: 653
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: DoorOpen_01
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 0
+        width: 191
+        height: 653
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: WordPanel
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1110
+        width: 495
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorInterior
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 769
+        width: 511
+        height: 700
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: MonkeyShadow
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1560
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel1_Top
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1664
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel1_Bottom
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1375
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel2_Bottom
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1842
+        width: 252
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel2_Top
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1664
+        width: 252
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel3_Top
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1672
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel3_Bottom
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1672
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: DoorCharLeg
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 789
+        width: 82
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel1_Glow
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1310
+        width: 296
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel2_Glow
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1400
+        width: 269
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Parcel3_Glow
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1363
+        width: 196
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
