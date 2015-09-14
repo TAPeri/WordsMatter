@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Login/Scene/LogIn Scene.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Dashboard/Scene/Dashboard.unity
   - enabled: 1
     path: Assets/WorldView/WorldView.unity
